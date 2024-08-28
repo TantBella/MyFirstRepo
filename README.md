@@ -1,2 +1,2 @@
 # MyFirstRepo
-My first repo working with .NET
+My first repo working with C#.
